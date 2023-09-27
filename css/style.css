@@ -1,0 +1,12 @@
+.debug, .sidebar, .head__content, .body__content{
+    min-height: 200px;
+    border: 1px solid red;
+}
+
+
+.sidebar{
+    width: 150px;
+    background-color: #051e35;
+    flex-shrink:0 ;
+    
+}
