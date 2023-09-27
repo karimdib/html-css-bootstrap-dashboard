@@ -1,12 +1,44 @@
-.debug, .sidebar, .head__content, .body__content{
-    min-height: 200px;
-    border: 1px solid red;
+
+.head__content{
+    background-color: #1b72e8;
 }
 
+ul{
+    list-style: none;
+}
 
 .sidebar{
     width: 150px;
     background-color: #051e35;
     flex-shrink:0 ;
+}
+
+.planes-header{
+    background-color: black;
+    opacity: 0.8;
+    padding:  2px 8px ;
+    font-size: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
+    padding-bottom: 0;
+}
+
+.setting{
+    padding: 10px;
+}
+
+.plus-entity{
+    padding: 4px 8px;
+    border: 1px solid;
     
+}
+
+.input-bg{
+    background-color: #e5e5e5;
+}
+
+.search-input{
+    background-color: #e5e5e5;
+    border-color: #e5e5e5;
+    border: transparent;
 }
