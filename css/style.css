@@ -47,6 +47,11 @@ ul{
     border: transparent;
 }
 
+.button-alert {
+    background-color: white;
+    border: none;
+}
+
 
 /*media*/
 
