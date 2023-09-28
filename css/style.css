@@ -60,6 +60,15 @@ th span{
     padding-left: 10px;
     font-weight: 400;
 }
+
+
+
+td span{
+    padding: 5px 7px;
+    border-radius: 5px;
+    color: grey;
+    border: 1px solid grey;
+}
 .title-table > *{
     font-weight: 400;
     font-size: 15px;
