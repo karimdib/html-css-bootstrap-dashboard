@@ -15,6 +15,7 @@ ul{
     width: 150px;
     background-color: #051e35;
     flex-shrink:0 ;
+    background-image: url("../img/sidebar-bg.png");
 }
 
 .planes-header{
