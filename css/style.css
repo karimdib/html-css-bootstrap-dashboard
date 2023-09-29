@@ -130,7 +130,7 @@ table tr:hover{
 
     .head__content .col-6 {
         order: 3;
-        padding-bottom: 20px;
+        margin-bottom: 10px;
     }
 
     .head__content .col-4 {
