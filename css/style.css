@@ -97,6 +97,21 @@ td span{
     color: grey;
 }
 
+.plus-entity:hover{
+    background-color: white;
+    color: black;
+}
+
+.item-list-sidebar:hover{
+    background-color: black;
+    
+    opacity: 0.8;
+}
+
+table tr:hover{
+    filter: opacity(1);
+    opacity: 0.8;
+}
 
 /*media*/
 
@@ -115,6 +130,7 @@ td span{
 
     .head__content .col-6 {
         order: 3;
+        padding-bottom: 20px;
     }
 
     .head__content .col-4 {
